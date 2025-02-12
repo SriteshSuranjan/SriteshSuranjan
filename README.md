@@ -89,6 +89,14 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
+    <!-- MongoDB -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a> 
+    <!-- MS SQL Server -->
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+    </a>
     <!-- Python -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -97,40 +105,7 @@
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
-    <h3>Scikit-Learn</h3>
-<a href="https://scikit-learn.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="100" height="100">
-</a>
-
-<h3>TensorFlow</h3>
-<a href="https://www.tensorflow.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" alt="TensorFlow" width="100" height="100">
-</a>
-
-<h3>Keras</h3>
-<a href="https://keras.io/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Keras_logo.svg" alt="Keras" width="100" height="100">
-</a>
-
-<h3>PyTorch</h3>
-<a href="https://pytorch.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/PyTorch_logo_icon.png" alt="PyTorch" width="100" height="100">
-</a>
-
-<h3>NumPy</h3>
-<a href="https://numpy.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/NumPy_logo_2020.svg" alt="NumPy" width="100" height="100">
-</a>
-
-<h3>Pandas</h3>
-<a href="https://pandas.pydata.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Pandas_logo.svg" alt="Pandas" width="100" height="100">
-</a>
-
-<h3>Matplotlib</h3>
-<a href="https://matplotlib.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Matplotlib_logo.svg" alt="Matplotlib" width="100" height="100">
-</a>
+    
 
 </p>
 
