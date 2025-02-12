@@ -97,6 +97,34 @@
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
+    <!-- Scikit-Learn -->
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="40" height="40"/>
+    </a>
+    <!-- TensorFlow -->
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" alt="TensorFlow" width="40" height="40"/>
+    </a>
+    <!-- Keras -->
+    <a href="https://keras.io/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Keras_logo.svg" alt="Keras" width="40" height="40"/>
+    </a>
+    <!-- PyTorch -->
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/PyTorch_logo_icon.png" alt="PyTorch" width="40" height="40"/>
+    </a>
+    <!-- NumPy -->
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
+    </a>
+    <!-- Pandas -->
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
+    </a>
+    <!-- Matplotlib -->
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Matplotlib_logo.svg" alt="Matplotlib" width="40" height="40"/>
+    </a>
 </p>
 
 <!--
