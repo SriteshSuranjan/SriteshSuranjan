@@ -2,12 +2,19 @@
 <h3 align="center">A DevOps enthusiast exploring automation and cloud technologies from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=SriteshSuranjan&label=Profile%20views&color=0e75b6&style=flat" alt="SriteshSuranjan" /> 
+<p align="left">  
+    <a href="https://www.linkedin.com/in/sriteshsuranjan" target="_blank">
+        <img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with Sritesh Suranjan on LinkedIn">
+    </a>  
 </p>
 
+- 🔭 I’m currently working on **CI/CD Pipelines & Automation**  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriteshsuranjan&label=Profile%20views&color=0e75b6&style=flat" alt="sriteshsuranjan" /> </p>
+- 🌱 I’m currently learning **DevOps tools & Cloud technologies**  
+
+- 💬 Ask me about **Automation, Cloud Computing, Docker, Kubernetes**  
+
+- 📫 How to reach me: **sriteshsurajan@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
