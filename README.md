@@ -103,11 +103,11 @@
     </a>
     <!-- NumPy -->
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
     </a> 
     <!-- Matplotlib -->
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Matplotlib_logo.svg" alt="Matplotlib" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> 
     </a> 
     <!-- Pandas -->
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
