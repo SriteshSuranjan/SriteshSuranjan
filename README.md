@@ -65,10 +65,6 @@
     <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
     </a>
-    <!-- HCL -->
-    <a href="https://www.hashicorp.com/products/terraform" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="HCL" width="40" height="40"/>
-    </a>
     <!-- Terraform -->
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
