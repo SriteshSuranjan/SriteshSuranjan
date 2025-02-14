@@ -143,9 +143,10 @@
     </a>
 </p>
 
-
+<!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriteshsuranjan&show_icons=true&locale=en&layout=compact" alt="sriteshsuranjan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriteshsuranjan&show_icons=true&locale=en" alt="sriteshsuranjan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriteshsuranjan&" alt="sriteshsuranjan" /></p>
+--->
