@@ -3,6 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left">  
+    <a href="https://sriteshsuranjan-portfolio.netlify.app" target="_blank">
+        <img src="https://img.shields.io/badge/My%20Portfolio-Website-orange?style=for-the-badge&logo=google-chrome" alt="Sritesh Suranjan's Portfolio">
+    </a>  
     <a href="https://www.linkedin.com/in/sriteshsuranjan" target="_blank">
         <img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with Sritesh Suranjan on LinkedIn">
     </a>  
@@ -18,9 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://sriteshsuranjan-portfolio.netlify.app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" height="30" width="40" />
-</a>
 <a href="https://linkedin.com/in/sriteshsuranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sriteshsuranjan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22784837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22784837" height="30" width="40" /></a>
 <a href="https://instagram.com/sritesh_suranjan_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sritesh_suranjan_07" height="30" width="40" /></a>
