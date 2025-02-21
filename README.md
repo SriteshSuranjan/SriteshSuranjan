@@ -6,6 +6,7 @@
     <a href="https://sriteshsuranjan-portfolio.netlify.app" target="_blank">
         <img src="https://img.shields.io/badge/My%20Portfolio-Website-orange?style=for-the-badge&logo=google-chrome" alt="Sritesh Suranjan's Portfolio">
     </a>  
+    <br>
     <a href="https://www.linkedin.com/in/sriteshsuranjan" target="_blank">
         <img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with Sritesh Suranjan on LinkedIn">
     </a>  
