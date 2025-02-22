@@ -1,4 +1,8 @@
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1200&height=60&lines=Hi+%F0%9F%91%8B%2C+Explore+world+of+Cloud+%26+DevOps+;With+Sritesh+Suranjan%2C+Let's+connect!+" alt="Typing SVG" /></a></h1>
+
+<!---
 <h1 align="center">Hi 👋, I'm Sritesh Suranjan</h1>
+--->
 <h3 align="center">A DevOps enthusiast exploring automation and cloud technologies from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
