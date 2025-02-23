@@ -31,6 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sriteshsuranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sriteshsuranjan" height="30" width="40" /></a>
+<a href="https://sriteshsuranjan.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashnode.svg" alt="Hashnode" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22784837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22784837" height="30" width="40" /></a>
 <a href="https://instagram.com/sritesh_suranjan_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sritesh_suranjan_07" height="30" width="40" /></a>
 </p>
