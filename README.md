@@ -13,7 +13,7 @@
     <br>
     <a href="https://www.linkedin.com/in/sriteshsuranjan" target="_blank">
         <img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Sritesh Suranjan on LinkedIn">
-    </a>  
+    </a>   
     <br>
     <a href="https://sriteshsuranjan.hashnode.dev" target="_blank">
         <img src="https://img.shields.io/badge/My%20Blogging%20Page-Hashnode-purple?style=for-the-badge&logo=hashnode" alt="Sritesh Suranjan's Blogging Page">
