@@ -12,7 +12,8 @@
     </a>  
     <br>
     <a href="https://www.linkedin.com/in/sriteshsuranjan" target="_blank">
-        <img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Sritesh Suranjan on LinkedIn">
+        <img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=for-the-badge" alt="Connect with Sritesh Suranjan on LinkedIn">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28" height="28">
     </a>   
     <br>
     <a href="https://sriteshsuranjan.hashnode.dev" target="_blank">
